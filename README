@@ -1,0 +1,9 @@
+Hello Umesh! How are you?
+This repo is for you.
+So I pushed the pivot project as a tar file
+If you installed pivot module on your local,as you know, you have to unzip this file and then cd in this pivot folder.
+In your terminal window, ./bin/pivot --config --config-wiki-sample.yaml
+After it, you can call at localhost:portnum in your browser.
+I hope it will help you to decide your final decision.
+Best regards.
+Leonid.
